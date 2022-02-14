@@ -6,7 +6,7 @@
 */
 int sensorPin = 0;
 int balioa = 0;
-int LED = 11;
+int LED = 5;
 
 void setup() {
   Serial.begin(9600);
